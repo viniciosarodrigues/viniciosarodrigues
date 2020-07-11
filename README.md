@@ -4,7 +4,7 @@
 ---
 
 ## Olá 👋,           
-Sou Vinícios Rodrigues, engenheiro de software. Meu foco hoje é tornar-me especialista em arquitetura de serviços distribuídos. Sou um entusiasta por novas tecnologias e desafios de algorítmos, gosto de entender o porque das coisas e como elas funcionam.
+Sou Vinícios Rodrigues, engenheiro de software. Meu foco hoje é tornar-me especialista em arquitetura de serviços distribuídos. Sou um entusiasta de novas tecnologias e desafios de algorítmos, gosto de entender o porque das coisas e como elas funcionam.
 
 ## 🧐 Habilidades
 • 🔭 Conhecimentos relacionados à desenvolvimento de software:
