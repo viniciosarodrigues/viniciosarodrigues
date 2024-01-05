@@ -1,5 +1,5 @@
 # Vinícios Rodrigues
-[![Twitter Badge](https://img.shields.io/badge/-@viniarrodrigues-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/viniarrodrigues)](https://twitter.com/viniarrodrigues) [![Linkedin Badge](https://img.shields.io/badge/-viniciosrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciosrodrigues/)](https://www.linkedin.com/in/viniciosrodrigues/) [![Medium Badge](https://img.shields.io/badge/-@viniciosarodrigues-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@viniciosarodrigues/)](https://medium.com/@viniciosarodrigues/)
+[![Linkedin Badge](https://img.shields.io/badge/-viniciosrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciosrodrigues/)](https://www.linkedin.com/in/viniciosrodrigues/) [![Medium Badge](https://img.shields.io/badge/-@viniciosarodrigues-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@viniciosarodrigues/)](https://medium.com/@viniciosarodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciosarodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciosarodrigues@gmail.com)](mailto:viniciosarodrigues@gmail.com)
 ---
 
