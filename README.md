@@ -19,13 +19,13 @@ Sou Vinícios Rodrigues, engenheiro de software. Meu foco hoje é tornar-me espe
 • 🔭 Conhecimentos relacionados à desenvolvimento de software:
 - Java (SpringBoot, Flyway, JUnit, JAX-RS, Servlets, JSP, Maven, Vaadin, Hibernate, Rest-WS, JavaFX, Swing), JavaScript(jQuery, AngularJS, Angular e ReactJs + Redux), HTML5 e CSS(Bootstrap), Dart, Flutter, .Net(C#, ASP.NET).
 
-- 🌱 Eclipse, NetBeans, Visual Studio2010 e Visual Studio2015.
+- 🌱 IntelliJ IDE, Eclipse IDE, NetBeans IDE, Visual Studio2010 e Visual Studio2015.
 -JasperSoft(Relatórios com java)
 
 • 👯 Gerenciamento e banco de dados:
 - Git, TortoiseSVN
-- Sql server, MySql, Oracle
-- MySql workbench, HeidiSQL, Sql Management Studio 2008, Sql Express, SQLTools
+- PostgresSQL, Sql server, MySql, Oracle
+- DBeaver, MySql workbench, HeidiSQL, Sql Management Studio 2008, Sql Express, SQLTools
 
 # Hello World!! 🤔
 - 📫 Como enviar-me uma mensagem?: Mande para o meu whatsapp [Whatsapp](https://wa.me/81999509300)
