@@ -1,6 +1,7 @@
 # Vinícios Rodrigues
-[![Linkedin Badge](https://img.shields.io/badge/-viniciosrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciosrodrigues/)](https://www.linkedin.com/in/viniciosrodrigues/) [![Medium Badge](https://img.shields.io/badge/-@viniciosarodrigues-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@viniciosarodrigues/)](https://medium.com/@viniciosarodrigues/)
+[![Linkedin Badge](https://img.shields.io/badge/-viniciosrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciosarodrigues/)](https://www.linkedin.com/in/viniciosarodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciosarodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciosarodrigues@gmail.com)](mailto:viniciosarodrigues@gmail.com)
+
 ---
 
 <center>
@@ -12,22 +13,44 @@
 </table>
 </center>
 
-## Olá 👋,           
-Sou Vinícios Rodrigues, engenheiro de software. Meu foco hoje é tornar-me especialista em arquitetura de serviços distribuídos. Sou um entusiasta de novas tecnologias e desafios de algorítmos, gosto de entender o porque das coisas e como elas funcionam.
+## Olá 👋
+Sou Vinícios Rodrigues, engenheiro de software com foco em arquitetura de serviços distribuídos. Sou entusiasta por novas tecnologias e soluções escaláveis, e tenho experiência prática em desenvolvimento backend, aplicações web e mobile.
 
-## 🧐 Habilidades
-• 🔭 Conhecimentos relacionados à desenvolvimento de software:
-- Java (SpringBoot, Flyway, JUnit, JAX-RS, Servlets, JSP, Maven, Vaadin, Hibernate, Rest-WS, JavaFX, Swing), JavaScript(jQuery, AngularJS, Angular e ReactJs + Redux), HTML5 e CSS(Bootstrap), Dart, Flutter, .Net(C#, ASP.NET).
+## Ferramentas e técnicas (resumo)
+Baseei esta lista nas informações do perfil e nos commits do repositório. Se quiser que eu extraia automaticamente ferramentas de outros repositórios ou código, me diga quais.
 
-- 🌱 IntelliJ IDE, Eclipse IDE, NetBeans IDE, Visual Studio2010 e Visual Studio2015.
--JasperSoft(Relatórios com java)
+- Linguagens:
+  - Java, JavaScript, Dart, HTML5, CSS
+- Frameworks e bibliotecas:
+  - Spring Boot, Quarkus, Hibernate, JAX-RS, Vaadin, JavaFX, Swing
+  - Angular, React (incl. Redux), jQuery, Flutter
+- Construção e dependências:
+  - Maven, Flyway
+- Testes e qualidade:
+  - JUnit, práticas de testes automatizados (TDD via JUnit quando aplicável)
+- APIs e arquitetura:
+  - APIs RESTful, desenvolvimento orientado a serviços, patterns para microsserviços, versionamento de APIs
+- Banco de dados e modelagem:
+  - PostgreSQL, Microsoft SQL Server, MySQL, Oracle
+- Ferramentas e IDEs:
+  - Git, TortoiseSVN
+  - IntelliJ IDEA, Eclipse, NetBeans, Visual Studio
+  - DBeaver, MySQL Workbench, HeidiSQL, SQL Server Management Studio
+- Outros conhecimentos:
+  - Relatórios com JasperSoft
+  - Experiência com UIs ricas (desktop e web) e desenvolvimento mobile com Flutter
 
-• 👯 Gerenciamento e banco de dados:
-- Git, TortoiseSVN
-- PostgresSQL, Sql server, MySql, Oracle
-- DBeaver, MySql workbench, HeidiSQL, Sql Management Studio 2008, Sql Express, SQLTools
+## O que eu procuro / interesses
+- 🔭 Tecnologias e áreas: Java, Spring Boot, Quarkus, RESTful APIs, Flutter (mobile), arquitetura de serviços distribuídos, soluções escaláveis e de alta disponibilidade.
+- 💬 Interesse em oportunidades de trabalho, freelance e desafios técnicos.
 
-# Hello World!! 🤔
-- 📫 Como enviar-me uma mensagem?: Mande para o meu whatsapp [Whatsapp](https://wa.me/81999509300)
-- 💬 Principais interesses: #Java, #Springboot, #Quarkus, #restful, #Flutter #mobile, #oportunidade, #freelance #job e qualquer coisa de tecnologia.
+## Contato
+- WhatsApp: [https://wa.me/81999509300](https://wa.me/81999509300)
+- Email: viniciosarodrigues@gmail.com
+- LinkedIn: https://www.linkedin.com/in/viniciosarodrigues/
+
 ---
+
+Se quiser, posso também:
+- Gerar uma versão em inglês.
+- Extrair automaticamente tecnologias de outros repositórios seus e atualizar o README dinamicamente.
