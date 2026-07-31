@@ -2,16 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-viniciosrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciosarodrigues/)](https://www.linkedin.com/in/viniciosarodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciosarodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciosarodrigues@gmail.com)](mailto:viniciosarodrigues@gmail.com)
 
----
-
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosarodrigues&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciosarodrigues&theme=default" /></td>
-  </tr>   
-</table>
-</center>
 
 ## Olá 👋
 Sou Vinícios Rodrigues — engenheiro de software focado em arquitetura de serviços distribuídos. Trabalho com desenvolvimento backend, APIs e soluções escaláveis; também desenvolvo aplicações web e mobile.
